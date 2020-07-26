@@ -5,6 +5,7 @@ Starter kit based on **[parcel bundler](https://parceljs.org/)**, used for web d
 
 ## Table of content
 * [About the Project](#about-the-project)
+* [Requirement](#requirement)
 * [Getting Started](#getting-started)
 * [Usage](#usage)
 * [Project tree](#project-tree)
