@@ -21,3 +21,19 @@ If you don't have already installed **[Node.js](https://nodejs.org/en/)** and **
 ## Getting Started
 
 Click on `Use this template` button and follow instructions, clone your repo on your computer, go to the project folder and in console type `yarn install`. Yarn will install all needed packages after that you are ready to code 👨‍💻
+
+## Usage 🔧
+
+`yarn dev` - runs development mode
+
+`yarn build` - runs build process for production
+
+`yarn test` - runs jest tests
+
+`yarn lint` - runs eslinter
+
+`yarn lint` - runs eslint and trying to the fix errors
+
+`yarn test-report` - build coverage report
+
+`yarn publish` - runs build and publish the page using `gh-pages` branch
