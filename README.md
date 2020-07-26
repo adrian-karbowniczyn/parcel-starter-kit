@@ -17,3 +17,7 @@ I've created this template 📓 to speed up creation of the projects, installing
 ## Requirement
 
 If you don't have already installed **[Node.js](https://nodejs.org/en/)** and **[yarn](https://yarnpkg.com/)** just do it now !
+
+## Getting Started
+
+Click on `Use this template` button and follow instructions, clone your repo on your computer, go to the project folder and in console type `yarn install`. Yarn will install all needed packages after that you are ready to code 👨‍💻
