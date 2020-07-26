@@ -37,3 +37,32 @@ Click on `Use this template` button and follow instructions, clone your repo on 
 `yarn test-report` - build coverage report
 
 `yarn publish` - runs build and publish the page using `gh-pages` branch
+
+## Project tree 🌳
+```
+.
+├── node_modules
+├── src
+│   ├── tests
+│   ├── assets
+│   │   └── images
+│   │       └── icons
+│   ├── sass
+│   │   ├── layout
+│   │   ├── base
+│   │   │   ├── _typography.scss
+│   │   │   ├── _variables.scss
+│   │   │   └── _reset.scss
+│   │   ├── main.scss
+│   │   ├── components
+│   │   └── pages
+│   ├── js
+│   │   └── index.js
+│   └── pages
+│       └── index.html
+├── babel.config.js
+├── package.json
+├── cover-image.png
+├── jest.config.js
+├── README.md
+└── yarn.lock
