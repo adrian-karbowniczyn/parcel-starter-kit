@@ -66,3 +66,15 @@ Click on `Use this template` button and follow instructions, clone your repo on 
 ├── jest.config.js
 ├── README.md
 └── yarn.lock
+```
+
+## Acknowledgements 📖
+
+* [Yarn - docs](https://classic.yarnpkg.com/en/docs/)
+* [Prettier](https://prettier.io/)
+* [Eslint](https://eslint.org/)
+* [Getting Prettier, Eslint and Vscode to work together](https://dev.to/chgldev/getting-prettier-eslint-and-vscode-to-work-together-3678)
+* [What is Babel?](https://babeljs.io/docs/en/)
+* [Parcel - Getting Started](https://parceljs.org/getting_started.html)
+* [Jest - Getting Started](https://jestjs.io/docs/en/getting-started)
+* [Sass](https://sass-lang.com/)
