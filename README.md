@@ -78,3 +78,18 @@ Click on `Use this template` button and follow instructions, clone your repo on 
 * [Parcel - Getting Started](https://parceljs.org/getting_started.html)
 * [Jest - Getting Started](https://jestjs.io/docs/en/getting-started)
 * [Sass](https://sass-lang.com/)
+
+## Used packages 📦
+* @babel/core
+* @babel/preset-env
+* babel-jest
+* eslint
+* eslint-config-airbnb-base
+* eslint-config-prettier
+* eslint-plugin-import
+* eslint-plugin-prettier
+* jest
+* parcel
+* prettier
+* sass
+* gh-pages
