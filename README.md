@@ -13,3 +13,7 @@ Starter kit based on **[parcel bundler](https://parceljs.org/)**, used for web d
 
 ## About this Project 🧾
 I've created this template 📓 to speed up creation of the projects, installing all the necessery packages, writing scripts, creating file structure 📂 can be time consuming and annoying 🤯 This template will help you with that 😎
+
+## Requirement
+
+If you don't have already installed **[Node.js](https://nodejs.org/en/)** and **[yarn](https://yarnpkg.com/)** just do it now !
