@@ -3,7 +3,17 @@
   "version": "1.0.0",
   "description": "Starter kit based on parcel bundler with eslint and prettier integration",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "clean": "rm -rf dist && rm -rf .cache",
+    "clean:coverage": "rm -rf coverage",
+    "lint": "yarn clean && npx eslint src/js/*",
+    "lint:fix": "yarn clean && npx eslint src/js/* --fix",
+    "dev": "yarn clean && parcel ./src/pages/index.html --port 5454",
+    "build": "yarn clean && parcel build ./src/pages/index.html --public-url ./",
+    "test": "jest --watchAll",
+    "test:report": "yarn clean:coverage && jest --coverage",
+    "publish": "yarn run build && gh-pages -d dist"
+  },
   "keywords": [
     "parcel",
     "eslint",
