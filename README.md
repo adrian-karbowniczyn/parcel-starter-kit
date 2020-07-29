@@ -12,7 +12,7 @@ Starter kit based on **[parcel bundler](https://parceljs.org/)**, used for web d
 * [Acknowledgements](#acknowledgements)
 * [Used packages](#used-packages)
 
-## About this Project 🧾
+## About this Project 
 I've created this template 📓 to speed up creation of the projects, installing all the necessery packages, writing scripts, creating file structure 📂 can be time consuming and annoying 🤯 This template will help you with that 😎
 
 ## Requirement
