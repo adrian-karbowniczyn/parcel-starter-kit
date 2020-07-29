@@ -31,10 +31,10 @@ Click on `Use this template` button and follow instructions, clone your repo on 
 
 `yarn test` - runs jest tests
 
+`yarn test:report` - build coverage report
 
 `yarn lint` - runs eslinter
 
-`yarn test-report` - build coverage report
 `yarn lint:fix` - runs eslint and trying to the fix errors
 
 `yarn publish` - runs build and publish the page using `gh-pages` branch
