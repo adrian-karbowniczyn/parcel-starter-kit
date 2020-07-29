@@ -12,7 +12,7 @@ Starter kit based on **[parcel bundler](https://parceljs.org/)**, used for web d
 * [Acknowledgements](#acknowledgements)
 * [Used packages](#used-packages)
 
-## About this Project 🧾
+## About this Project 
 I've created this template 📓 to speed up creation of the projects, installing all the necessery packages, writing scripts, creating file structure 📂 can be time consuming and annoying 🤯 This template will help you with that 😎
 
 ## Requirement
@@ -31,11 +31,11 @@ Click on `Use this template` button and follow instructions, clone your repo on 
 
 `yarn test` - runs jest tests
 
+`yarn test:report` - build coverage report
+
 `yarn lint` - runs eslinter
 
-`yarn lint` - runs eslint and trying to the fix errors
-
-`yarn test-report` - build coverage report
+`yarn lint:fix` - runs eslint and trying to the fix errors
 
 `yarn publish` - runs build and publish the page using `gh-pages` branch
 
