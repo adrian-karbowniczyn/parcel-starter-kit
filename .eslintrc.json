@@ -8,7 +8,7 @@
   "plugins": ["prettier"],
   "rules": {
     "prettier/prettier": ["error"],
-    "no-console": "off",
+    "no-console": "warn",
     "no-undef": "off",
     "no-unused-vars": "warn",
     "no-plusplus": "off"
