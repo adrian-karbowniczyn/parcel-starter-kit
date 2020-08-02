@@ -8,21 +8,29 @@ html {
   box-sizing: inherit;
 }
 
+html,
 body,
-main,
-section,
-article,
-header,
-footer,
-div,
+p,
+ol,
+ul,
+li,
+dl,
+dt,
+dd,
+blockquote,
+figure,
+fieldset,
+legend,
+textarea,
+pre,
+iframe,
+hr,
 h1,
 h2,
 h3,
 h4,
 h5,
-h6,
-p,
-span {
+h6 {
   margin: 0;
   padding: 0;
 }
